@@ -1,5 +1,5 @@
-#!/usr/bin/env ruby
-require 'pry'
+#!/usr/bin/env ruby  #called the "sha-bang line"
+require 'pry'  
 require_relative '../lib/tic_tac_toe.rb'
 
 
